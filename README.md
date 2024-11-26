@@ -25,10 +25,9 @@ Download Arduino IDE
 Clone este repositório:
 
 bash
-Copiar código
 git clone https://github.com/seuprojeto/equino-monitoramento.git
-Configure a IDE:
 
+Configure a IDE:
 Adicione a placa ESP32 nas preferências da Arduino IDE (Tutorial).
 Instale as bibliotecas necessárias para o acelerômetro (ex.: Adafruit_Sensor, MPU6050).
 Ajuste o código:
